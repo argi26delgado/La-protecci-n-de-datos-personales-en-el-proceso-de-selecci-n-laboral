@@ -1,0 +1,2 @@
+# La-protecci-n-de-datos-personales-en-el-proceso-de-selecci-n-laboral
+Este TFM analiza el tratamiento de datos personales de las personas candidatas a un empleo. Examina si se basa en la ejecución del contrato, el consentimiento o el interés legítimo, y estudia las categorías especiales (sindical, biométricos, salud), los límites en entrevistas y redes sociales, la conservación de los datos y las sanciones del RGPD.
