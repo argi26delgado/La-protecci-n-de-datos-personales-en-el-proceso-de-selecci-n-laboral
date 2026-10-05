@@ -4,10 +4,6 @@ Trabajo Fin de Máster Propio en **Protección de Datos, Ciberseguridad y Derech
 Universidad del País Vasco / Euskal Herriko Unibertsitatea (UPV/EHU)
 Curso 2021/2022 · Fecha de depósito: 12 de septiembre de 2022
 
-📄 **[Leer / descargar el TFM completo (PDF)](docs/TFM_proteccion_datos_seleccion_laboral.pdf)**
-
----
-
 ## Resumen
 
 Este trabajo analiza qué se hace con los datos de las personas candidatas a un puesto de trabajo. Se explica en detalle si el tratamiento se apoya en la **ejecución de un contrato (o medidas precontractuales)**, en el **consentimiento** o en el **interés legítimo** del empresario. Además, se desarrolla el régimen de las **categorías especiales de datos** (afiliación sindical, datos biométricos y datos de salud), la **conservación** de los datos y el **régimen sancionador** aplicable.
